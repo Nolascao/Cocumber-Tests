@@ -1,0 +1,14 @@
+# Dependências do Projeto de Testes com Cucumber/Behave
+
+# Behave - Framework BDD para Python (implementação do Cucumber)
+behave==1.2.6
+
+# Parse - Biblioteca para parsing de strings (usada pelo Behave)
+parse==1.20.2
+
+# Parse-type - Extensões de tipos para parse (usada pelo Behave)
+parse-type==0.6.2
+
+# Six - Biblioteca de compatibilidade Python 2/3
+six==1.16.0
+
